@@ -15,6 +15,13 @@
       "when": 1752006720361,
       "tag": "0001_great_bucky",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752152706409,
+      "tag": "0002_kind_lilith",
+      "breakpoints": true
     }
   ]
 }
